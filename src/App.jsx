@@ -14,6 +14,7 @@ const firebaseConfig = {
   appId: "1:585826894640:web:470fc5942453c99b12fef5"
 };
 
+
 // 初始化 Firebase
 let db;
 try {
